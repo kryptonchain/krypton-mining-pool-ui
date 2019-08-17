@@ -1,4 +1,4 @@
-var api = "http://127.0.0.1:8117";
+var api = "http://public.kryptonchain.org:8117";
 
 var email = "";
 var telegram = "https://t.me/kryptonchain";
